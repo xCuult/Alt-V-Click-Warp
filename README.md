@@ -4,7 +4,6 @@ Demonstration: https://streamable.com/5zvsxy
 
 # Project Structure
 ```bash
-src/
 ├── main.js                 // Entry point
 ├── systems/
 │   └── TeleportSystem.js   // Main teleport system class
